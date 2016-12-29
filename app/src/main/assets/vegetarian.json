@@ -1,0 +1,33 @@
+{
+	"response": "ok",
+	"vegetarian": [{
+		"category": "Snacks",
+		"photo": "http://mediaresources.idiva.com/media/photogallery/2014/Oct/recipe_low_calorie_indian_snacks_batata_vada_320x240.jpg",
+		"items": " ITEMS:   Pakoda, Aloo Dum, Fries, Burger,etc"
+	  },
+	  {
+		"category": "Momo & Noodles",
+		"photo": "https://s-media-cache-ak0.pinimg.com/736x/05/2d/54/052d5486910441fe4c22d9cb3be09eb0.jpg",
+		"items": " ITEMS:   Momo, Chowmein, Thukpa,etc"
+	  },
+	  {
+		"category": "Salad",
+		"photo": "http://www.running4women.com/images/view/892122ece53852653e04c48e9d9cb788.jpg",
+		"items": " ITEMS   Green Fresh Salads,etc"
+	  },
+	  {
+		"category": "Bread & Rice",
+		"photo": "http://www.citinpratunam.com/en/gallery/dining/dine(19).jpg",
+		"items": " ITEMS   Rice, Thali, Pulao,etc"
+	  },
+	  {
+		"category": "Indian Corner",
+		"photo": "http://cdn.deccanchronicle.com/sites/default/files/indian%20food_0_0_0_0_0_0.jpg",
+		"items": " ITEMS:   Rajma, Curry, Kofta,etc"
+	  },
+	  {
+		"category": "Tawa & Tandoor Se",
+		"photo": "http://www.agrmilan.com/food-menu-photos/89-missi-roti.jpg",
+		"items": " ITEMS:   Paratha, Naan, Roti,etc"
+	  }]
+}

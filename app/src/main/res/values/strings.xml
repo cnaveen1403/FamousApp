@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Famous</string>
+    <string name="title_activity_main_page">Home Page</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello">Welcome to the Famous App... What we care about is our Customers.</string>
+    <string name="ingredients">Ingredients:</string>
+
+    <string name="more">" Tax : 14.5% VAT/CST is applicable. \n           Delivery charges applicable on order below Rs.1000. "</string>
+    <string name="price">Price Details</string>
+    <string name="rs">Rs</string>
+    <string name="moreInfo">More Information</string>
+
+
+    <string name="delivery">Enter a delivery address</string>
+    <string name="name">Name</string>
+    <string name="pin">Postal Code</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="phone">Phone</string>
+    <string name="land">Landmark</string>
+    <string name="email">Email</string>
+    <string name="deliver">Deliver to this address</string>
+    <string name="emptyCart">Your Cart is Empty</string>
+    <string name="pointer">&#xe01d;</string>
+    <string name="del">Delivery Address</string>
+    <string name="pay">Payable amount on delivery</string>
+    <string name="cod">Cash On Delivery</string>
+    <string name="placeOrder">Place Order</string>
+    <string name="payment">PAYMENT SUCCESSFUL</string>
+    <string name="thank">Thank You,</string>
+    <string name="thank1">Your order has been placed.</string>
+    <string name="continueShopping">CONTINUE SHOPPING</string>
+
+</resources>

@@ -1,0 +1,38 @@
+{
+	"response": "ok",
+	"grocery": [{
+		"category": "Bread/Baked",
+		"photo": "http://bullpenbaker.com/wp-content/uploads/2013/04/16130FD1T.jpg",
+		"items": " ITEMS:   Bread, Doughnut, Cake, Sandwich,etc"
+	  },
+	  {
+		"category": "Dairy",
+		"photo": "http://www.msbizon.com/en/wp-content/gallery/nabial/nabial-2.jpg",
+		"items": " ITEMS:   Cheese, Egg, Milk, Butter,etc"
+	  },
+	  {
+		"category": "Baking Goods",
+		"photo": "http://cdn1.bigcommerce.com/server4000/7bbb6/product_images/uploaded_images/baking-ingredients.jpg",
+		"items": " ITEMS   Flour, Sugar, Pasta, Oils,etc"
+	  },
+	  {
+		"category": "Meat",
+		"photo": "http://www.finermeatco.com/uploads/9/1/3/9/9139697/7450703_orig.jpg",
+		"items": " ITEMS   Pork, Chicken, Mutton,etc"
+	  },
+	  {
+		"category": "Produce",
+		"photo": "http://www.ashleymarketplace.com/wp-content/uploads/2013/05/produce8.jpg",
+		"items": " ITEMS:   Fruits and Vegetables"
+	  },
+	  {
+		"category": "Paper Goods",
+		"photo": "http://tjscateringmaui.com/wp-content/uploads/2013/08/paper1.jpg",
+		"items": " ITEMS:   Paper towels, Toilet paper, Aluminium foils,etc"
+	  },
+	  {
+		"category": "Personal Care",
+		"photo": "http://www.solvay.com/en/binaries/markets-consumer-personal-care-173571.jpg?size=medium",
+		"items": " ITEMS:   Shampoo, Soap, Shaving cream,etc"
+	  }]
+}

@@ -1,0 +1,890 @@
+{
+  "response": "ok",
+  "gbakery": [
+    {
+      "category": "Grilled Cheese Sandwich",
+      "photo": "http://www.blogto.com/upload/2014/01/2014131-grilled-cheese.jpg",
+      "items": "Rs 50",
+      "ingredients" : "Slices bread \n Butter \n Mayonnaise \n Grated cheddar (or other cheese)"
+    },
+    {
+      "category": "White Bread",
+      "photo": "http://i.dailymail.co.uk/i/pix/2013/07/08/article-2358285-0C904E7B00000578-136_634x354.jpg",
+      "items": "Rs 30",
+      "ingredients" :"Baker's yeast \n Barm \n Calcium propanoate \n Eggs \n Fat \n Flour \n Flour treatment agent \n Leavening agent \n Milk \n Salt \n Sugar"
+    },
+    {
+      "category": "Brown Bread",
+      "photo": "http://tarkariwala.com/ExtraData/img/1455714861_Brown-sandwich-bread-2.jpg",
+      "items": "Rs 50",
+      "ingredients" :"250 gms whole wheat flour (gehun ka atta) \n 10 gms fresh yeast \n 3/4 tsp sugar \n 1 tsp low-fat butter \n 3/4 tsp salt"
+    },
+    {
+      "category": "French Bread",
+      "photo": "http://images.edge-generalmills.com/d8ba7bf8-d631-44bb-ba19-310d3a96d6a9.jpg",
+      "items": "Rs 80",
+      "ingredients" : "2 cups warm water \n 1 tablespoon yeast \n 1 tablespoon vegetable oil \n 1 tablespoon sugar \n 2 teaspoons salt \n 5 1/2 cups bread flour"
+    },
+    {
+      "category": "Croissant",
+      "photo": "http://marieclaire.media.ipcdigital.co.uk/11116/00008f6b8/6c35_orh100000w646/croissant.jpg",
+      "items": "Rs 50",
+      "ingredients" : "Yeast \n Sugar \n Warm water \n Butter \n Cold milk \n Flour \n Cold unsalted butter \n Egg"
+    },
+    {
+      "category": "Swiss Roll",
+      "photo": "http://services.supacache.com/php/IMAGES/FOODNETWORK_SA_Recipes/423---Image.jpg?t=1459419852",
+      "items": "Rs 50",
+      "ingredients" : "Vegetable oil \n Golden sugar  \n Plain flour  \n Eggs  \n Strawberry or Raspberry jam"
+    },
+    {
+      "category": "Plain Donut",
+      "photo": "http://www.thedeliciouslife.com/wp-content/uploads/2010/06/bobs-coffee-doughnuts-doughnut.jpg",
+      "items": "Rs 40",
+      "ingredients" : "Enriched unbleached wheat flour \n Malted barley flour \n Niacin \n Iron as ferrous sulfate \n Thiamin mononitrate \n Enzyme \n Riboflavin \n Palm oil \n Water \n Dextrose \n Soybean oil \n Whey \n Skim milk \n Yeast \n Salt \n Leavening sodium acid pyrophosphate \n baking Soda etc"
+    },
+    {
+      "category": "Cream Donut",
+      "photo": "http://media.vocativ.com/photos/2014/06/Donut-Rankings-Boston-Cream3492255289.jpg",
+      "items": "Rs 45",
+      "ingredients" : "Enriched bleached wheat flour \n vegetable shortening (partially hydrogenated soybean and/or cottonseed oil) \n Water \n Sugar \n Soy flour \n Egg yolks \n Vital wheat gluten \n Yeast \n Nonfat milk\n Yeast nutrients (calcium sulfate, ammonium sulfate) \n Salt etc"
+    },
+    {
+      "category": "Bread Sticks",
+      "photo": "http://heygoodcookin.com/wp-content/uploads/2013/09/Breadsticks-002.jpg",
+      "items": "Rs 40",
+      "ingredients" : "Active dry yeast \n Flour \n Unsalted butter \n Softened sugar \n Fine salt \n Unsalted butter \n Melted kosher salt \n Garlic powder\n Dried oregano"
+    },
+    {
+      "category": "Blueberry Muffin",
+      "photo": "http://www.sarahs-blueberry-recipes.com/images/banana-blueberry-muffins.jpg",
+      "items": "Rs 40",
+      "ingredients" : "All-purpose flour \n Spooned and leveled \n Baking powder \n Kosher salt \n Granulated sugar \n Unsalted butter \n Melted and cooled whole milk \n Eggs \n Blueberries"
+    }
+  ],
+  "gdairy": [
+    {
+      "category": "Amul Cheese",
+      "photo": "https://www.tejumal.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/m/amul-cheese-cubes-tejumal.jpg",
+      "items": "Rs 36",
+      "ingredients" : "Cheese \n Sodium Citrate \n Common Salt \n Citric Acid \n Permitted natural colour - annatto"
+    },
+    {
+      "category": "Amul Cheese Slices",
+      "photo": "http://images.nitrosell.com/product_images/15/3607/large-amul-cheese-slices-220gm.jpg",
+      "items": "Rs 110",
+      "ingredients" : "Cheese \n Sodium Citrate \n Common Salt \n Citric Acid \n Permitted natural colour - annatto"
+    },
+    {
+      "category": "Amul Butter",
+      "photo": "http://www.gropper.in/images/products/thumb/2015/03/13/137831_AmulButter100Gm.jpg",
+      "items": "Rs 32",
+      "ingredients" : "Egg yolk \n Salt \n Mustard \n Sugary \n Pepper powder \n Salad oil \n Lemon juice or white vinegar"
+    },
+    {
+      "category": "Amul Fresh Cream",
+      "photo": "http://4.bp.blogspot.com/-_3gPDuz3sqA/UTN3czrRndI/AAAAAAAAFOQ/nCnw88-r2fA/s1600/drawings+062.jpg",
+      "items": "Rs 45",
+      "ingredients" : "Amul cheese is processed cheese, so it has good keeping quality \n As cheese making reduces 8 parts of milk to about one part of cheese, it has concentrated goodness of pure creamy milk \n Table of contents \n Ghee recipes \n Cheese recipes \n Paneer recipes \n Mithai mate recipes \n Useful ingredients \n Glossary of ingredients \n Garlicbutter-recipes"
+    },
+    {
+      "category": "Amul Taaza",
+      "photo": "http://media.findable.in/media/product/img/naturesbasket.co.in/500x500_38848_1.png",
+      "items": "Rs 44",
+      "ingredients" : "Energy 35 kcal \n Total Fat 3 g \n Cholesterol	8 mg \n Total Carbohydrate 5 g \n Added Sugar 0 g \n Protein 3.5 g \n Calcium 150 mg \n Vitamin A 75 mcg \n Vitamin D 0.5 mcg"
+    },
+    {
+      "category": "Nestle Everyday",
+      "photo": "http://cdn8.wn.com/o25/ph/img/45/3f/fd5e3184fd14be77afd4b7f65b7c-grande.jpg",
+      "items": "Rs 88",
+      "ingredients" : "Nestle everyday is a milk substitute for everyday use \n You can use it for thepreparation of tea and coffee \n According to doctor you can also drink it instead of mother dairy or cows milk \n It is also healthy \n With one tablespoon of everyday \n Milk powder you can make one cup of milk \n Compared to amulya milk powder it is not very dense and requires more than amulya dairy whitener \n So it is costly thanamulya \n If you compare it with amulya I would prefer amulya over everyday \n Those who are financially constrained can use it over mother dairy \n It is manufactured by famous nestle india limited \n So Its quality is good \n It has got a nice flavor"
+    },
+    {
+      "category": "Amul Paneer",
+      "photo": "http://www.asianspicemarket.com/asm/images/amul%20paneer.jpg",
+      "items": "Rs 235",
+      "ingredients" : "Sugar \n Partially hydrogenated refined vegetable oils \n Milk solids \n  Cocoa powder and permitted emulsifiers"
+    }
+  ],
+  "gbaking": [
+    {
+      "category": "Patanjali Wheat Atta",
+      "photo": "http://patanjalistores.com/wp-content/uploads/2016/02/patanjali-whole-wheat-atta-10kg.jpg",
+      "items": "Rs 300",
+      "ingredients" : "The wheat flour claims to contains only whole wheat \n No mixture of maida \n I too felt it as true because the chapattis and phulkas prepared from it came out to be softest of all other Wheat flours which I had been using"
+    },
+    {
+      "category": "Vanraj Maida Atta",
+      "photo": "http://www.sarvottamatta.com/sites/default/files/Vanraj_maida.png",
+      "items": "Rs 450",
+      "ingredients" : "Sarvottam atta offers our clients maida flour that is rich in nutrition and vitamins \n Pure \n High durability \n Eco friendly"
+    },
+    {
+      "category": "Domino Sugar",
+      "photo": "https://www.gianteagle.com/ProductImages/PRODUCT_NODE_358/49200048702.jpg",
+      "items": "Rs 120",
+      "ingredients" : "Tapioca syrup \n Molasses \n Malt \n Honey products \n Rice \n Rice syrup \n Rice bran \n Rice flour \n Specialty sugars \n Fondants and icing sugars \n In addition to pharmaceutical and nutraceutical products"
+    },
+    {
+      "category": "Fortune Sunflower Oil",
+      "photo": "http://www.bigtrolly.com/uploads/product_imgs/P1426435368.jpg",
+      "items": "Rs 109",
+      "ingredients" : "Refined corn oil and refined rice bran oil \n Contains permitted antioxidants [319,330] \n  Anti foaming agent [900a] free from argemone oil"
+    },
+    {
+      "category": "Fortune Mustard Oil",
+      "photo": "http://groscia.com/uploads/products/9808007FORTUNE%20MUSTARD%20OIL.png",
+      "items": "Rs 122",
+      "ingredients" : "Made from the first press of mustard seeds in the traditional way \n The best mustard seeds are slowly crushed in a temperature-controlled environment \n This retains pungency and natural properties enhancing the taste of the food \n Its high pungency levels also help stimulate your appetite \n Essential for keeping pickles fresh for a longer duration while retaining their traditional flavour"
+    }
+  ],
+  "gmeat": [
+    {
+      "category": "Whole Fresh Chicken",
+      "photo": "http://www.bettycrocker.com/~/media/Images/Betty-Crocker/Tips/TipsLibrary/Cooking-Tips/Skillet-Roasted-Chicken-with-Lemon-and-Potatoes/Skillet-Roasted-Chicken-with-Lemon-and-Potatoes_01.jpg?h=408&la=en&w=725",
+      "items": "Rs 180",
+      "ingredients" : "Roast the chicken for 1 1/2 hours \n Until the juices run clear when you cut between a leg and thigh \n Remove the chicken and vegetables to a platter and cover with aluminum foil for about 20 minutes"
+    },
+    {
+      "category": "Chicken Wings",
+      "photo": "http://previews.123rf.com/images/tobi/tobi1109/tobi110900156/10723822-Raw-chicken-wings-on-a-plate-Stock-Photo.jpg",
+      "items": "Rs 100",
+      "ingredients" : "Canola oil for frying \n 24 chicken wing parts (12 wings separated into 2 pieces) \n One 12-ounce bottle cayenne hot pepper sauce such as Frank's \n 1 stick butter \n Several dashes worcestershire sauce \n Several dashes hot sauce such as tabasco \n Blue cheese dip for serving \n Celery sticks for serving"
+    },
+    {
+      "category": "Chicken Leg Piece Regular",
+      "photo": "http://www.pyramids-trading.com/uploads/posts//0faa90c5982b7f9efba6332f159686c6.jpg",
+      "items": "Rs 140",
+      "ingredients" : "4 Chicken legs \n 2 teaspoons yogurt(curd) \n 2 teaspoons chilli powder \n 1 teaspoon pepper powder \n 1 teaspoon ginger garlic paste \n 2 teaspoons lemon juice \n Pinch of turmeric \n Pinch of red color \n 1/2, cut into circles onions \n Salt to taste \n 1 teaspoon jeera powder \n 1/2 teaspoon coriander powder \n 4-5 teaaspoons oil \n 5 Curry leaves"
+    },
+    {
+      "category": "Mutton Chops",
+      "photo": "http://images-cdn.azureedge.net/azure/in-resources/ff4560f3-d8bd-425a-8108-b961d284e45f/Images/ProductImages/Source/Muttonchops.jpg;width=600",
+      "items": "Rs 500",
+      "ingredients" : "1/2 kg - mutton chops \n 2 tbsp - ginger- garlic paste \n 3 -onions \n 4 - tomatoes \n 3 tsp - red chilli powder \n 1.5 tsp - coriander powder \n 2 tsp - garam masala powder \n 2 tsp - chaat masala \n oil \n Salt \n Cooking soda - 1 small pinch"
+    },
+    {
+      "category": "Mutton Thigh Whole",
+      "photo": "http://pbsmaldives.com/img/solutions/procurement/mutton-leg-bone.png",
+      "items": "Rs 500",
+      "ingredients" : "1 leg of baby goat ( 3 lb/ 1.3 kg) \n 4/5 tbl spoon of raw papaya paste \n 2 tbl spoon ginger paste + half teaspoon \n 1 and half table spoon of garlic paste + 1 teaspoon \n Onion paste 1 and half of large onions \n Fried onion 1 cup (you need 5/ 6 large onions to make 1 cup of fried onion) \n Yogurt half cup whisked \n Red chili powder 2 teaspoon \n Turmeric powder half teaspoon \n Coriander powder half teaspoon \n Cinnamon powder 1 level tea spoon \n Nutmeg(jaifol) powder little more than 1/4 th tea spoon \n Shaan korma curry masala 1 leveltea spoon \n Paprika half tea spoon optional this is for a good color ( don’t use the hot paprika ) \n Red bell pepper paste 1 small ( optional) \n Kishmish(raisin) kashew almond paste 1 tbl spoon \n Khoya/ maowa 1 tbl spoon \n Ghee 1 tbl spoon \n Sugar 1 tea spoon \n Salt to taste \n Heavy cream or thick milk"
+    },
+    {
+      "category": "Mutton Curry Pieces",
+      "photo": "http://www.mehmoodandcompany.com/images/row-mutton.jpeg",
+      "items": "Rs 400",
+      "ingredients" : "250 g mutton pieces \n 2 tbsp oil \n 2 tbsp ghee \n 2 cardamom \n 4 to 5 cloves \n 1 tbsp black pepper Corns \n 2 Cinnamon \n 1 or 2 bay leaves \n 2 onions \n 1 1/2 tbsp ginger garlic paste \n 1/4 tsp turmeric pwd \n 1 to 1 1/2 tsp red chilly pwd \n 1 1/2 tsp coriander pwd \n 2 Tomatoes \n 1/2 cup yoghurt \n 1/4 tsp - garam masala powder \n Salt to taste \n Fresh coriander leaves"
+    },
+    {
+      "category": "Fresh Pork Fillets",
+      "photo": "http://previews.123rf.com/images/ivonnewierink/ivonnewierink1007/ivonnewierink100700217/7376794-Many-fresh-pork-chops-or-cutlets-with-parsley-Stock-Photo-meat.jpg",
+      "items": "Rs 500",
+      "ingredients" : "3 pork \n Fillets (350g/12oz each) \n 2 tbsp olive oil \n 2 tbsp dijon mustard \n For the herb paste \n 150ml olive oil \n Grated zest of 1 lemon \n 100g fresh flat-leaf parsley \n 50g basil \n leaves"
+    },
+    {
+      "category": "Fresh Pork Belly Pieces",
+      "photo": "http://www.maangchi.com/wp-content/uploads/2009/09/grilled-porkbelly_precut.jpg",
+      "items": "Rs 500",
+      "ingredients" : "3 lb (1.35 kg) belly pork trimmed and cut into 8 thick strips (trimmed weight 2 lb 8 oz/1.15 kg) \n 1-2 tablespoons olive oil \n 1 medium onion chopped small \n freshly milled black pepper \n 5 tablespoons dry cider or wine \n 5 tablespoons Japanese soy sauce \n 1 heaped tablespoon tomato purée \n 1 heaped teaspoon ground ginger \n 1 fat garlic clove crushed \n 1 tablespoon light soft brown sugar"
+    },
+    {
+      "category": "Fresh Pork Ribs",
+      "photo": "http://www.kitchendiscovery.com/wp-content/uploads/2014/12/bigstock-Chopping-Fresh-Pork-Ribs-And-V-43964371-780x350.jpg",
+      "items": "Rs 500",
+      "ingredients" : "3 tablespoons kosher salt \n 2 tablespoons chili powder \n 2 tablespoons packed dark brown sugar \n 2 tablespoons paprika \n 1 tablespoon garlic powder \n 2 teaspoons ground mustard \n 1 teaspoon freshly ground black pepper \n 2 full racks baby back pork ribs (about 5 to 6 pounds) \n 1 1/2 cups ketchup \n 1/2 cup water \n 1/3 cup packed dark brown sugar \n 1/4 cup light or dark molasses (not blackstrap) \n 2 tablespoons cider vinegar \n 2 tablespoons worcestershire sauce \n 1 tablespoon chili powder \n 2 teaspoons garlic powder \n 2 teaspoons paprika"
+    }
+  ],
+  "produce": [
+    {
+      "category": "Apple",
+      "photo": "http://sites.psu.edu/siowfa15/wp-content/uploads/sites/29639/2015/09/04_Apples.jpg",
+      "items": "Rs 60",
+      "ingredients" : "Energy 53 calories \n Protein 0,3 g \n Carbohydrate 11,4 g \n Including fructose 5,7 g \n Fat 0,6 g \n Fibre2 g \n Sodium 3 mg \n Vitamin c 12 mg"
+    },
+    {
+      "category": "Mango",
+      "photo": "http://media.mercola.com/assets/images/food-facts/mango-nutrition-facts.jpg",
+      "items": "Rs 50",
+      "ingredients" : "4 ounces mango 74 calories \n fat 1g \n Sat fat 0 g \n Mono fat 0 g \n Protein 1 g \n Carbohydrates 19 g \n Sodium 3 mg \n Cholesterol 0 mg"
+    },
+    {
+      "category": "Banana",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bananas_white_background_DS.jpg",
+      "items": "Rs 40 ",
+      "ingredients" : "Calcium 11 mg \n Phosphorus 35 mg \n Iron 1 mg \n Potassium 503 mg \n Vitamin a 260 iu \n Niacin 1 mg \n Vitamin c 14 mg"
+    },
+    {
+      "category": "Grapes",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Table_grapes_on_white.jpg",
+      "items": "Rs 80",
+      "ingredients" : "Cholesterol 0 mg \n Sodium 2 mg \n Potassium 191 mg \n Total carbohydrate 17 g \n Dietary fiber 0.9 g \n Sugar 16 g \n Protein 0.6 g"
+    },
+    {
+      "category": "Pineapple",
+      "photo": "http://pngimg.com/upload/pineapple_PNG2759.png",
+      "items": "Rs 40",
+      "ingredients" : "Cholesterol 0 mg \n Sodium 1 mg \n Potassium 109 mg \n Total carbohydrate 13 g \n Dietary fiber 1.4 g \n Sugar 10 g \n Protein 0.5 g"
+    },
+    {
+      "category": "Watermelon",
+      "photo": "http://www.organicfacts.net/wp-content/uploads/2013/05/watermelon2.jpg",
+      "items": "Rs 50",
+      "ingredients" : "Cholesterol 0 mg \n Sodium 1 mg \n Potassium 112 mg \n Total carbohydrate 8 g \n Dietary fiber 0.4 g \n Sugar 6 g"
+    },
+    {
+      "category": "Potato",
+      "photo": "http://pngimg.com/upload/potato_PNG7082.png",
+      "items": "Rs 30",
+      "ingredients" : "Cholesterol 0 mg \n Sodium 6 mg \n Potassium 421 mg \n Total Carbohydrate 17 g"
+    },
+    {
+      "category": "Onion",
+      "photo": "http://weknowyourdreamz.com/images/onion/onion-07.jpg",
+      "items": "Rs 35",
+      "ingredients" : "Cholesterol 0 mg \n Sodium 4 mg \n Potassium 146 mg \n Total Carbohydrate 9 g"
+    },
+    {
+      "category": "Tomatto",
+      "photo": "http://www.atadesigner.com/painting1/slides/tomatto.jpg",
+      "items": "Rs 40",
+      "ingredients" : "Cholesterol 0 mg \n Sodium 5 mg \n Potassium 237 mg \n Total Carbohydrate 3.9 g"
+    },
+    {
+      "category": "Garlic",
+      "photo": "http://www.safaloverseas.com/wp-content/uploads/2015/02/Garlic-2.jpg",
+      "items": "Rs 150",
+      "ingredients" : "Calories 149 \n Protein 6.4 g \n Fat 0.5 g \n Carbohydrates 33.1 g \n Fibre 2.1 g"
+    },
+    {
+      "category": "Green Chilly",
+      "photo": "http://dinefresh.in/wp-content/uploads/2015/11/green_chilli_big_0.jpg",
+      "items": "Rs 100",
+      "ingredients" : "Cholesterol 0 mg \n Sodium 9 mg \n Potassium 322 mg \n Total carbohydrate 9 g"
+
+    },
+    {
+      "category": "Ginger",
+      "photo": "http://www.nlj.gov.jm/FeastingontheHeritage/ginger.jpg",
+      "items": "Rs 80",
+      "ingredients" : "Cholesterol 0 mg \n Sodium 13 mg \n Potassium 415 mg \n Total carbohydrate 18 g"
+    },
+    {
+      "category": "Green Palak",
+      "photo": "http://1.imimg.com/data/A/1/MY-733472/palak_250x250.jpg",
+      "items": "Rs 15",
+      "ingredients" : "Spinach 900 grams \n Paneer (cottage cheese) 200 grams \n Green chillies 2-3 \n Garlic chopped 8-10 cloves \n Oil 3 tablespoons \n Cumin seeds 1/2 teaspoon \n Salt to taste \n Lemon juice 1 tablespoon"
+    },
+    {
+      "category": "Pumpkin",
+      "photo": "http://elanaspantry.wpengine.netdna-cdn.com/wp-content/uploads/2008/10/dsc_61361.jpg",
+      "items": "Rs 40",
+      "ingredients" : "Cholesterol 0 mg \n Sodium 1 mg \n Potassium 340 mg \n Total carbohydrate 7 g"
+    },
+    {
+      "category": "Brinjal",
+      "photo": "http://needspublic.com/wp-content/uploads/2015/08/v_bt-brinjal.jpg",
+      "items": "Rs 30",
+      "ingredients" : "Cholesterol 0 mg \n Sodium 2 mg \n Potassium 229 mg \n Total carbohydrate 6 g"
+    },
+    {
+      "category": "CauliFlower",
+      "photo": "http://augustdeli.co.za/wp-content/uploads/2015/09/Cauliflower.jpg",
+      "items": "Rs 20 ",
+      "ingredients" : "Cholesterol 0 mg \n Sodium 30 mg \n Potassium 299 mg \n Total carbohydrate 5 g"
+    },
+    {
+      "category": "Cabage",
+      "photo": "http://pngimg.com/upload/cabbage_PNG8803.png",
+      "items": "Rs 20",
+      "ingredients": "Cholesterol 0 mg \n Sodium 18 mg \n Potassium 170 mg \nTotal Carbohydrate 6 g"
+    }
+  ],
+  "pgoods": [
+    {
+      "category": "Toilet Paper",
+      "photo": "http://www.gannett-cdn.com/-mm-/e573d471d80b88a3cdbca1aafda66f2a1dca6fd6/c=219-0-3648-2578&r=x404&c=534x401/local/-/media/2015/08/26/USATODAY/USATODAY/635761839612480895-ThinkstockPhotos-481658549.jpg",
+      "items": "Rs 50",
+      "ingredients" : "Connective tissues are fibrous tissues \n They are made up of cells separated by non-living material which is called an extracellular matrix \n Connective tissue gives shape to organs and holds them in place \n Both blood and bone are examples of connective tissue"
+    },
+    {
+      "category": "Paper Towels",
+      "photo": "http://images.costco-static.com/image/media/500-65301-847__1.jpg",
+      "items": "Rs 70",
+      "ingredients" : "Processed Wood Pulp Used to make paper from softwood trees \n In na we use virgin wood pulp our products don’t contain recycled fibers \n Wet strength polymer added to increase strength during wet use \n Adhesive	hold pliestogether Present in trace amounts \n Ceteareth-10 surfactant emulsifier"
+    },
+    {
+      "category": "Book Cover Material",
+      "photo": "http://media.tumblr.com/tumblr_m9cestHC7o1qk4h4i.jpg",
+      "items": "Rs 150",
+      "ingredients" : "Page size and style \n Typeface size and style \n The type and weight of paper for the text and cover \n Use of color \n Presentation of visuals/illustrations in the text if needed \n cover art/illustrations"
+    },
+    {
+      "category": "Envelopes",
+      "photo": "http://inhouseprint.com.au/wp-content/uploads/2015/03/Envelope-Printing1.jpg",
+      "items": "Rs 10",
+      "ingredients" : "Our signature dough envelopes your favorite ingredients"
+    },
+    {
+      "category": "Tissue Paper",
+      "photo": "http://2.imimg.com/data2/LI/QW/MY-3691673/tissue-paper-250x250.jpg",
+      "items": "Rs 40",
+      "ingredients" : "The first step in the process of making soft tissue paper is creating paper pulp \n Which can be generated from wood fibre or recycled materials \n Trees are logged and cut into chips which are then ground into fine flakes"
+    },
+    {
+      "category": "A4 Paper",
+      "photo": "http://3.imimg.com/data3/NY/JW/MY-562159/a4-size-papers-250x250.jpg",
+      "items": "Rs 250",
+      "ingredients" : "Paper is a thin material produced by pressing together moist fibres of cellulose pulp derived from wood \n Rags or grasses \n  And drying them into flexible sheets \n It is a versatile material with many uses \n including writing \n Printing packaging \n Cleaning and a number of industrial and construction processes"
+    },
+    {
+      "category": "Pen",
+      "photo": "http://efdreams.com/data_images/dreams/pen/pen-08.jpg",
+      "items": "Rs 10",
+      "ingredients" : "The ballpoint pen \n The felt-tip marker \n And the fibre-tip pen have led to inks containing solutions of dyes in water or organic solvents such as propylene glycol \n Propyl alcohol \n Toluene or glyco-ethers \n Other ingredients like resins \n Preservatives and wetting agents are also added"
+    },
+    {
+      "category": "Eraser",
+      "photo": "http://www.pelikan.com/pulse/vfs-public/v2012/store/writing/writing-equipment/eraser/pk-20/pk-20-eraser.group.jpg",
+      "items": "Rs 5",
+      "ingredients" : "Gently rub the stains with a damp mr. clean magic eraser \n Wash the item thoroughly with soapy water \n Rinse clean \n  Dry clean crayon marks from walls \n  Dampen the mr. clean magic eraser with water and rub the crayon marks gently to avoid removing the shine from walls painted with semi-gloss, satin, and glossy paint"
+    },
+    {
+      "category": "Pencil",
+      "photo": "http://preview.turbosquid.com/Preview/2014/09/01__07_26_13/Pencil_3_001.jpgf56cfc1c-14c5-4e65-95d1-462442167209Original.jpg",
+      "items": "Rs 7",
+      "ingredients" : "Natural eyeliners pencils with vitamins, minerals & botanicals \n Eyeliners are heavily pigmented to stay put & last for hours \n An affordable eyeliner pencil option"
+    },
+    {
+      "category": "Sharpner",
+      "photo": "http://static-cdn1.ustream.tv/i/channel/picture/9/7/0/2/9702880/9702880_sharpner-nw2-14e64d150_1320842703,640x360,b:1.jpg",
+      "items": "Rs 10",
+      "ingredients" : "Styli-style flat pencil sharpener assorted colors 1 Pack \n Buy styli-style sharpeners - styli-style flat pencil sharpener assorted colors \n Buy styli-style sharpeners - styli-style flat pencil sharpener \n Styli-style flat pencil sharpener is specifically designed for use with the Flat Pencil only"
+    },
+    {
+      "category": "Color Pencil",
+      "photo": "http://36z9yt2c7y8f2f8nht38fgt3173q.wpengine.netdna-cdn.com/wp-content/uploads/2014/11/Fotolia_53822751_Subscription_Monthly_M1.jpg",
+      "items": "Rs 40",
+      "ingredients" : "There are a few other ingredients that go into a colored pencils \n A special adhesive is placed on one wooden pencil half after the lead is placed \n This adhesive binds the two halves together to make a whole pencil \n After the pencils have been dried and cut to size \n They are painted corresponding to the color of the pencil lead"
+    }
+  ],
+  "pcare": [
+    {
+      "category": "Hair Oil",
+      "photo": "http://www.ohmyrupee.com/wp-content/uploads/2015/10/Dove-Argon-Hair-Oil-Snapdeal-704x450.jpg",
+      "items": "Rs 171",
+      "ingredients" : "Shea butter \n Coconut oil \n Aloe vera \n Vegetable glycerin \n Jojoba extract \n Extra virgin olive oil \n Castor seed oil \n Honey"
+    },
+    {
+      "category": "Set Wet Gel",
+      "photo": "http://img5a.flixcart.com/image/hair-styling/g/n/x/set-wet-250-casual-hold-pack-of-2-original-imae5pdgah3xfpev.jpeg",
+      "items": "Rs 150",
+      "ingredients" : "Hair gels are compatible with all types of hair \n This includes curly wavy textured colored and relaxed hair \n The amount of gel applied is usually directly proportional to the period up to which the hair can be maintained in a particular manner"
+    },
+    {
+      "category": "Perfume",
+      "photo": "http://img6a.flixcart.com/image/perfume/t/d/z/eau-de-parfum-axe-122-signature-mysterious-400x400-imae93eyjehnzrhm.jpeg",
+      "items": "Rs 270",
+      "ingredients" : "Fragrances today are mostly a fusion of ingredients taken from nature \n Inspired by nature \n Together with the synthetics (man-made ingredients) that are used to make them last longer carry further or stay true when worn on the skin"
+
+    },
+    {
+      "category": "Deodrant",
+      "photo": "http://www.kuchzyada.com/wp-content/uploads/2015/06/wildstone-chrome-nogas-perfumed-deodorant-spray-bottle.jpg",
+      "items": "Rs 250",
+      "ingredients" : "A deodorant is a substance applied to the body to prevent body odor caused by the bacterial breakdown of perspiration in armpits \n Feet and other areas of the body \n A subgroup of deodorants \n Antiperspirants \n Affect odor as well as prevent sweating by affecting sweat glands"
+
+    },
+    {
+      "category": "Bath Soap",
+      "photo": "http://acnemantra.com/wp-content/uploads/2014/02/fiama-di-wills-soap-review.jpg",
+      "items": "Rs 50",
+      "ingredients" : "Typical vegetable oils used in soap making are palm oil \n Coconut oil \n Olive oil and laurel oil"
+    },
+    {
+      "category": "Clothes Wash Soap",
+      "photo": "http://www.superbrandsindia.com/images/brand_pdf/consumer_1st_edition_2004/rin/rin-supreme.jpg",
+      "items": "Rs 15",
+      "ingredients" : "Add finely grated bar soap to the boiling water and stir until soap is melted \n You can keep on low heat until melted \n Pour the soapy water mixture into a large \n Clean pail and add the borax and washing soda \n Add 2 gallons of water \n  Stir until well mixed \n Cover pail and use 1/4 cup for each load of laundry"
+    },
+    {
+      "category": "Gillet Saving Razor",
+      "photo": "http://ecx.images-amazon.com/images/I/71iKczGZWqL._SL1210_.jpg",
+      "items": "Rs 100",
+      "ingredients" : "Foamy shave foam features a comfort glide formul and a rich \n Creamy lather that spreads easily and rinses clean for that foamy shave men have enjoyed for generations \n Simple and honest"
+    },
+    {
+      "category": "Saving Cream",
+      "photo": "http://greedify.com/product/big/1423564595638.jpg",
+      "items": "Rs 50",
+      "ingredients" : "Shaving cream: aqua (water) \n Stearic acid \n Myristic acid \n Potassium hydroxide \n Coconut acid \n Glycerin \n Triethanolamine \n Parfum (fragrance) and sodium hydroxide"
+    },
+    {
+      "category": "Garnier Colormate Mehandi",
+      "photo": "http://fmcgguru.com/Uploads/fmcg2393-garnier-color-naturals-no3.16-burgundy-hair-care-colors-dyes.jpg",
+      "items": "Rs 198",
+      "ingredients" : "Grey coverage is quite good \n Leaves hair silky and shiny \n Doesn’t dry out the hair \n Easy preparation and application \n Natural looking black hair color \n Non-drip cream formula and nourishes the hair \n No itching or any side-effects \n The color fades from the hair roots soon \n Contains diaminodenzenes \n Resorcinol and ammonia"
+    },
+    {
+      "category": "Lipstick",
+      "photo": "http://demandware.edgesuite.net/aaoy_prd/on/demandware.static/-/Sites-itemmaster_NARS/default/dwd3ff4f2f/hi-res/0607845096122.jpg",
+      "items": "Rs 60",
+      "ingredients" : "Lipsticks may be made from several waxes such as beeswax \n Ozokerite and candelilla wax \n Because of its high melting point \n Carnauba wax is a key ingredient in terms of strengthening the lipstick \n Various oils and fats are also used in lipsticks such as olive oil \n Mineral oil \n Cocoa butter \n Lanolin and petrolatum"
+    },
+    {
+      "category": "Eyeliner",
+      "photo": "http://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_M1G601_640x600_0.jpg",
+      "items": "Rs 70",
+      "ingredients" : "Whether you use a pencil \n Liquid or cream \n Cosmetic chemist nick morante \n President of nick morante cosmetic consulting in holbrook \n Contain the same basic kinds of ingredients: film formers \n Thickeners and pigments"
+    },
+    {
+      "category": "Facepack",
+      "photo": "http://www.pauladorf.com/images/large/pressed-powder_LRG.jpg",
+      "items": "Rs 100",
+      "ingredients" : "1/4 cup avocado extract mixed with water \n 1 egg white \n 1 tablespoon of honey \n Mix all the ingredients as a mixture and apply it to your face \n Let the pack dry for 15 minutes and later you can wash it with cold water"
+    },
+    {
+      "category": "Facewash",
+      "photo": "http://www.3-am.in/wp-content/uploads/2015/01/406.jpg",
+      "items": "Rs 90",
+      "ingredients" : "Aqua/water \n Glycerin(1) \n Coco & lauryl glucoside(2) \n Xanthan gum \n Polyglyceryl-4 laurate/sebacate and polyglyceryl-6 caprylate/caprate(2) \n Argania spinosa kernel oil \n Lippia alba oil \n Arrabidaea chica extract \n Natural fragrance(2) of grapefruit + lemon + orange + vetiver + star anise oils \n Dehydroacetic acid(2) \n Benzyl alcohol(2) \n Lactic acid(2)"
+    },
+    {
+      "category": "Nailpolish",
+      "photo": "http://www.rantchic.com/wp-content/uploads/2014/02/nails.jpg",
+      "items": "Rs 120",
+      "ingredients" : "Nitrocellulose is a film-forming polymer that is the main ingredient in most nail polishes \n Nail polish consists of a film-forming polymer dissolved in a volatile organic solvent \n Nitrocellulose that is dissolved in butyl acetate or ethyl acetate is common"
+    }
+  ],
+  "vsnacks": [
+    {
+      "category": "Aloo Dum",
+      "photo": "http://3.imimg.com/data3/QJ/IB/MY-10357447/aloo-dum-masala-250x250.jpg",
+      "items": "Rs 30",
+      "ingredients" : "500 grams potatoes or 20 to 22 baby potatoes \n 3 to 3.5 cups water \n ¼ tsp salt \n For preparing the gravy \n 3 tsp kashmiri red chili powder or deghi mirch + 2 tbsp water \n ½ tbsp ginger powder \n 1 tbsp fennel powder/saunf powder \n 1 tsp shah jeera/caraway seeds \n 1 inch cinnamon \n 3 cloves \n 1 black cardamom \n 4 to 5 black peppers \n 1 green cardamom optional \n 6 tbsp fresh full fat curd beaten or whisked till smooth \n 1.5 cups water \n ¾ cup mustard oil for frying potatoes \n 2 tbsp fresh mustard oil for making gravy or reserve 2 tbsp mustard oil from the ¾ cup that is used for frying potatoes \n Salt as required \n Some caraway seeds as garnishing optional"
+    },
+    {
+      "category": "Cheese Balls Pakoda",
+      "photo": "http://2.bp.blogspot.com/-GYcS-zGiltQ/TiFZwFZnL4I/AAAAAAAAFhY/qXHtI3aaquE/s1600/Corn_Fritter-large.jpg",
+      "items": "Rs 50",
+      "ingredients" : "100 grams potatoes or 3 small or 2 medium or 1 large potato \n 60 grams cheese or ½ cup grated cheese tightly packed \n ¼ tsp black pepper crushed or tsp black pepper powder add as required \n A pinch of garam masala optional \n 1.5 tbsp chopped coriander leaves or parsley leaves \n 3.5 to 4 tbsp gram flour/besan or 2 to 3 tbsp arrow root flour or corn starch or all purpose flour/maida \n Two to three pinches of black salt or regular salt or rock salt"
+    },
+    {
+      "category": "Paneer Chilli",
+      "photo": "http://www.blog.sagmart.com/wp-content/uploads/2015/10/dry-chilli-paneer1.jpg",
+      "items": "Rs 50",
+      "ingredients" : "1 ½ cups paneer (approximately 180 to 200 grams) \n ½ tsp sugar \n ½ tsp kashmiri red chili powder \n Sauce for seasoning \n ¾ tbsp soya sauce \n ½ tbsp chilli sauce(adjust to suit your taste) \n ½ to 1 tsp vinegar \n Other ingredients \n 3 tbsp. corn flour \n 2 pinches of pepper powder \n Oil as needed \n 1 tbsp. chopped garlic \n 2 tbsp. chopped spring onions greens \n 2 tbsp chopped spring onion whites \n ½ cup sliced capsicum / bell pepper \n 1 medium onion cubed \n 1 to 2 green chilies slit and deseeded \n ½ tsp corn flour"
+    },
+    {
+      "category": "Paneer Kathi Kabab",
+      "photo": "http://khateraho.com/uploads/eaters/c51ce410c124a10e0db5e4b97fc2af39/recipes/Paneer_Taash_Kabab.jpg",
+      "items": "Rs 60",
+      "ingredients" : "Paneer tikka filling \n Low fat cottage cheese (paneer) 1/2 inch cubes 1 cup \n Tomatoes seeded and chopped 2 medium \n Oil 1 teaspoon\n Green capsicum seeded and chopped 2 medium \n Marinade \n Yogurt whisked 1/4 cup \n Red chilli powder 1 teaspoon \n Turmeric powder 1/4 teaspoon \n Ginger paste 1/2 teaspoon \n Garlic paste 1/4 teaspoon \n Gram flour (besan) 1 tablespoon \n Chaat masala 1/2 teaspoon \n Dry fenugreek leaves (kasuri methi) 1/2 teaspoon \n Garam masala powder 1/2 teaspoon \n Salt to taste \n Chapatis \n Whole wheat flour (atta) 1 cup\n Skimmed milk 1/4 cup"
+    },
+    {
+      "category": "French Fries",
+      "photo": "http://s2.dmcdn.net/IZlI9/1280x720-ts8.jpg",
+      "items": "Rs 50",
+      "ingredients" : "Potatoes \n Vegetable oil \n Canola Oil \n Soybean oil \n Hydrogenated soybean oil \n Natural beef flavor \n wheat and milk derivatives \n Citric acid Preservative \n Dextrose \n Sodium acid pyrophosphate maintain color \n Salt"
+    }
+  ],
+  "vmomo": [
+    {
+      "category": "Momo",
+      "photo": "https://i.ytimg.com/vi/7tdUCk9pLPw/maxresdefault.jpg",
+      "items": "Rs 40",
+      "ingredients" : "1 cup all purpose flour/maida \n ½ tsp oil \n ¼ tsp salt or as required \n 2 to 3 tbsp water for kneading or as required \n For the stuffing \n 1.5 to 1.75 cups finely chopped vegetables (i added ½ cup chopped cabbage, ½ cup chopped carrots cup chopped french beans and ¼ cup chopped capsicum) \n 2 small sized spring onions, finely chopped - reserve the greens to be added later \n 3 to 4 small garlic/lahsun finely chopped \n 1.5 tsp light soy sauce 1 tsp soy saucea dd as required \n ½ tsp black pepper or as required \n 1 tbsp oil \n salt as required"
+    },
+    {
+      "category": " Paneer Momo",
+      "photo": "http://www.surfindia.com/recipes/img/paneer-momos.jpg",
+      "items": "Rs 50",
+      "ingredients" : "Cabbage 250 gram \n Onion 2 \n Paneer 250 gram \n Red chilli powder 1 teaspoon"
+    },
+    {
+      "category": "Noodles",
+      "photo": "http://www.powerofmushrooms.com.au/files/images/mod/Mushroom-Chow-Mein_1205080545.jpg",
+      "items": "Rs 60",
+      "ingredients" : "125 to 150 gms chinese noodles \n 1 medium carrot/gajar, julienned \n 2-3 medium spring onions/hara pyaaz, finely chopped \n 8-10 french beans, thinly sliced diagonally or finely chopped \n 1 small to medium capsicum/green bell pepper, julienned or finely chopped \n 2-3 garlic cloves/lahsun, finely chopped \n ½ inch ginger/adrak, finely chopped \n 1 to 2 tsp soy sauce or as required \n 1 tsp finely chopped celery or 1 tsp chopped coriander (both of them have different flavors celery will give a more chinese flavor and coriander will give an indianised taste) \n 2 tbsp oil \n salt and freshly powdered black pepper as required"
+    },
+    {
+      "category": "Chowmein",
+      "photo": "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiM2ICqxtLMAhVix6YKHXheDsoQjRwIBw&url=http%3A%2F%2Fwww.thrillophilia.com%2Fblog%2Findian-street-foods%2F&psig=AFQjCNGTK2R9tXUsl1p4IjcElsiizHmyZw&ust=1463074170297417",
+      "items": "Rs 70",
+      "ingredients" : "150 to 200 gms or 5.5 to 7 lb noodles (plain or whole wheat noodles or flat noodles) \n 5 to 6 cups water, 1.25 to 1.5 litres \n ¼ tsp salt \n ½ tsp sesame oil or any other oil \n For stir frying noodles \n ¾ to 1 cup sliced button mushrooms \n ¾ cup grated or shredded carrots \n ¾ cup shredded cabbage, green or purple cabbage \n ¼ to cup finely chopped french beans \n cup finely chopped onions or 1 small to medium onion or 1 medium spring onion, finely chopped (reserve the spring onions for garnish) \n ¼ cup thinly sliced capsicum/ bell pepper (green or yellow or red) or about 1 small to medium bell pepper \n ¼ cup sprouts (optional) \n to ½ cup tofu cubes (optional) \n 1 tsp finely chopped ginger \n 1 tsp finely chopped garlic \n 1 tsp finely chopped celery (optional) \n 2 to 3 green chilies, finely chopped (skip if making for kids) or ¾ to 1 tsp chili sauce \n 3 tsp soy sauce or add as required \n 1 tbsp tomato ketchup or add as required (optional)n½ tsp black pepper"
+    },
+    {
+      "category": "Thukpa",
+      "photo": "https://www.makemytrip.com/travel-guide/media/dg_image/dharamshala/Thukpa_flickr-creative-commons_Pankaj-Kaushal.jpg",
+      "items": "Rs 70",
+      "ingredients" : "1/2 cup (125 mL) carrot(s), julienned \n 1/2 red pepper(s), medium, julienned \n 1/2 cup (125 mL) celery, julienned \n 2 cups (500 mL) baby spinach, fresh \n 3 cups (750 mL) chicken breast(s), leftover or deli roasted \n 6 cups (1.5 L) low-sodium chicken broth \n 1/2 lb (0.3 kg) rice noodles \n 1 clove garlic"
+    }
+  ],
+  "salad": [
+    {
+      "category": "Fresh Green Salad",
+      "photo": "http://previews.123rf.com/images/epokrovsky/epokrovsky1108/epokrovsky110800123/10410875-Eat-healthy-Fresh-vegetable-salad-served-in-a-green-salad-bowl-Stock-Photo.jpg",
+      "items": "Rs 35",
+      "ingredients" : "1 (7-ounce) package baby salad greens \n 2 cups croutons \n 1 (15-ounce can) cannellini beans, drained and rinsed \n 1 red pepper, halved, seeded and julienned \n 1 carrot, julienned \n 1/2 small cucumber, julienned \n Salt and freshly ground black pepper \n Citrus vinaigrette \n Zest and juice of 1/2 lemon \n Zest and juice of 1/2 orange \n 2 teaspoons honey \n 1 teaspoon Dijon mustard \n 1/4 teaspoon ground coriander \n 1/3 cup extra-virgin olive oil"
+    },
+    {
+      "category": "Nepali Salad",
+      "photo": "http://nepalikitchenshanghai.com/wp-content/uploads/2013/04/8d.-Phewa-Lake-Side-Salad.jpg",
+      "items": "Rs 35",
+      "ingredients" : "500 g small desiree potatoes (or other varieties) \n 50 g podded green peas, blanched and refreshed under cold water \n 1 long green chilli, chopped \n 1 tsp chilli flakes (optional, for extra hot) \n ¼ cup (60 ml) lemon juice\n 2 tsp black sesame seeds \n 2 tbsp vegetable oil \n 1 tsp ground turmeric \n 1 tsp fenugreek seeds \n Fresh coriander leaves to serve \n Chopped carrots, cucumbers and other vegetables can be added as an option"
+
+    },
+    {
+      "category": "Chinese Salad",
+      "photo": "http://kaleidoscope.cultural-china.com/chinaWH/upload/Image/2(4).jpg",
+      "items": "Rs 35",
+      "ingredients" : "Preheat oven to 350 degrees \n To make the vinaigrette \n Whisk together rice wine vinegar \n Garlic \n Sesame oil \n Sugar \n Ginger and soy sauce in a small bowl n set aside"
+
+    },
+    {
+      "category": "Bengali Salad",
+      "photo": "https://yummyfoodmadeeasy.files.wordpress.com/2012/07/tomato-salad.jpg",
+      "items": "Rs 70",
+      "ingredients" : "1/2 a cucumber, finely chopped \n 1 carrot, shredded \n 1 carrot, shredded \n 1/2 cup finely chopped radish (optional) \n 2 medium-small tomatoes \n 1 medium sized onion, finely chopped \n 2 green chillies, finely chopped \n 1/2 cup chopped fresh corriander leaves \n Salt as needed \n 1 tbspn of sugar \n 1/4 tspn black pepper \n Juice from 1/2 a large lime \n Few drops of mustard oil \n 1 tspn crushed peanuts (optional)"
+    }
+  ],
+  "vrice": [
+    {
+      "category": "Veg Fried Rice",
+      "photo": "http://cookingshooking.in/wp-content/uploads/2014/01/23.jpg",
+      "items": "Rs 50",
+      "ingredients" : "¼ cup each of finely chopped spring onion whites/scallions \n Carrots \n French beans \n Cabbage \n Mushrooms \n Capsicum or bell peppers (green, red or yellow) \n about 1.5 to 2 cups finely chopped vegetables \n 3 to 4 small sized garlic chopped or ¾ tsp finely chopped garlic"
+
+    },
+    {
+      "category": "Jeera Rice",
+      "photo": "http://cdn.shopify.com/s/files/1/0990/4554/products/0212_Jeera-Rice_large.jpg?v=1445256097",
+      "items": "Rs 50",
+      "ingredients" : "Basmati rice 1 1/2 cups \n Cumin seeds 2 teaspoons \n Ghee 1 1/2 tablespoons \n Bay leaf 1 \n Black cardamom 1 \n Cinnamon 2 two inch to cook \n Salt to taste"
+    },
+    {
+      "category": "Plain Rice",
+      "photo": "http://currytadka.in/wp-content/uploads/2016/01/plain-rice.gif",
+      "items": "Rs 40",
+      "ingredients" : "1 cup long grain rice \n 2 cups water \n 1 teaspoon salt \n 1 teaspoon butter (optional)"
+
+    },
+    {
+      "category": "Thali",
+      "photo": "http://thalinbiryani.com/images/isotope/thali1.jpg",
+      "items": "Rs 100",
+      "ingredients" : "Rice \n 2 tbsp Veg oil , for frying \n 1 tsp cumin seeds \n 2 tsp fresh ginger finely chopped \n 2 tsp fresh garlic chopped \n 1 small onion, finely diced \n Vegetables cut\n Half tsp turmeric powder \n 2 Large tomatoes finely diced  \n 1 x 165ml tin chopped tomatoes \n 1 x 165ml tin coconut milk \n 10-15 fresh curry leaves \n 1 tsp Salt \n 2 whole green chillies , finely chopped \n Half tsp ground green cardamom"
+
+    },
+    {
+      "category": "Pulao",
+      "photo": "http://lekhafoods.com/media/1352865/mattar-pulao.jpg",
+      "items": "Rs 80",
+      "ingredients" : "1.5 cups long grained or basmati rice soaked for 30 minutes \n ¼ heaped cup each of chopped carrots \n Cauliflower/broccoli \n French beans \n Green peas (fresh or frozen) and carrots or \n 1 to 1.5 cups chopped veggies (you can add your choice of vegetables) \n 1 large onion \n Thinly sliced"
+
+    }
+  ],
+  "vindian": [
+    {
+      "category": "Dal Makhani",
+      "photo": "http://seatrr.com/blog/wp-content/uploads/2015/03/Dal-MakhaniZaffran.jpg",
+      "items": "Rs 70",
+      "ingredients" : "Whole black gram (sabut urad) 1/2 cup \n Red kidney beans (rajma) 2 tablespoons \n Salt to taste \n Red chilli powder 1 teaspoon \n Ginger chopped 2 inch pieces \n Nutralite butter 3 tablespoons \n Oil 1 tablespoon \n Cumin seeds 1 teaspoon"
+    },
+    {
+      "category": "Dal Kema Kofta",
+      "photo": "http://ksmartstatic.sify.com/cmf-1.0.0/appflow/bawarchi.com/Image/oeslJBfajjhbh_bigger.jpg",
+      "items": "Rs 70",
+      "ingredients" : "Mint leaves 1 bunch \n Tomato puree 1 cup \n Cumin powder 1 teaspoons \n Onions chopped 2 numbers \n Kheema 500 grams \n Red chilly powder 3 tablespoons \n Garam masala powder 1 tablespoons \n Channa dal 100 grams"
+
+    },
+    {
+      "category": "Mixed Veg Curry With Mushroom",
+      "photo": "http://www.greatcurryrecipes.net/wp-content/uploads/2013/06/vegetablebhagee.jpg",
+      "items": "Rs 120",
+      "ingredients" : "Cups onion chopped \n 1 tomato chopped \n 1 garlic chopped \n 2 cloves piece ginger chopped	\n 1 curry leaves \n 1 sprig cumin seeds 1/2 teaspoon fennel seeds \n 1/2 teaspoon cinnamon stick \n 1 cardamom pods \n 4 cloves \n 4 bay leaf \n 1 green chillies \n Slit lengthwise \n 2 turmeric powder \n 1/4 teaspoon Red chilly powder \n 1 teaspoon coriander powder \n 1 teaspoon garam masala \n 1/2 teaspoon kasuri methi \n 1 teaspoon thick cream \n 2 tablespoons \n Salt \n Oil"
+    },
+    {
+      "category": "Paneer Butter Masala",
+      "photo": "http://orsimages.unileversolutions.com/ORS_Images/Knorr_en-IN/Paneer%20Butter%20Masala%20Recipe%20Knorr%20India_29_3.1.20_326X580.Jpeg",
+      "items": "Rs 100",
+      "ingredients" : "2 cups of cubed paneer or tofu \n 1 cup of sliced onions \n 2 tsp of ginger garlic paste \n 1 tbsp of coriander powder \n 1 tsp of garam masala \n 1 tsp of red chilli powder (adjust to your taste) \n 1 tbsp of canned tomato paste (or 1 cup tomato puree) \n 2 tsp of tomato ketchup"
+
+    },
+    {
+      "category": "Dal Fry",
+      "photo": "http://2.bp.blogspot.com/-HeEdhRnVYOM/UUYNWpRkuSI/AAAAAAAAbkg/_D8bErMX5e0/s1600/df+start.jpg",
+      "items": "Rs 70",
+      "ingredients" : "¾ cup tuvar dal/arhar dal/pigeon pea lentils or half-half of tuvar dal and masoor dal \n 2 to 2.5 cups of water for pressure cooking the dal \n 1 medium sized onion, finely chopped \n 1 medium sized tomato, chopped or \n 2 green chilies, slit or chopped \n 2-3 dry red chilies, kept whole or halved and deseeded \n 10-12 curry leaves/kadi patta \n ½ inch ginger/adrak + 3-4 garlic/lahsun, crushed or made into a paste in a mortar & pestle or 1.5 tsp ginger-garlic paste \n ½ or ¾ tsp black mustard seeds/rai \n 1 tsp cumin seeds/jeera \n 1 to 2 pinches of asafoetida powder/hing (if using a strong asafoetida, then just one pinch is enough) \n ½ tsp turmeric powder/haldi \n ½ tsp red chili powder/lal mirch powder \n 1 tsp kasuri methi/dry fenugreek leaves \n 2-3 tbsp oil or ghee or unsalted butter \n ½ to 1 tsp lemon juice (optional) \n 1 or 2 tbsp chopped coriander leaves/dhania patta, for garnish \n 1 to 1.5 cups water or add as required \n salt as required"
+    },
+    {
+      "category": "Rajma",
+      "photo": "http://2.bp.blogspot.com/-ZOWMQouvE9M/UM2sqGFWzBI/AAAAAAAACz0/1ZlkMXtgMRg/s1600/IMG_5419.JPG",
+      "items": "Rs 70",
+      "ingredients" : "1 cup rajma/red kidney beans, about 200 gms, soaked overnight in enough water \n 2.5 cups water for pressure cooking \n 1 green chili/hari mirch, chopped \n 1 tbsp chopped garlic/lahsun or ½ inch ginger, chopped \n 1 tbsp chopped ginger/adrak or 7 to 8 medium garlic, chopped \n 3 medium tomatoes, about 200 gms, chopped \n 1 large onion, about 100 gms, chopped \n ½ tsp turmeric powder/haldi \n ½ tsp red chili powder/lal mirch powder \n ¾ to 1 tsp garam masala powder \n 1 tsp dry mango powder/amchur powder \n 1 tsp cumin seeds/jeera \n 2 tbsp butter or oil \n salt as required"
+
+    },
+    {
+      "category": "Puri Sabji",
+      "photo": "https://i.ytimg.com/vi/-1sT6hy_wg4/maxresdefault.jpg",
+      "items": "Rs 50",
+      "ingredients" : "4 medium sized potatoes \n 1 large onion, chopped \n 1 green chili, chopped \n 1 tsp mustard (rai or sarson) \n 1 tsp cumin (jeera) \n 1.5 tsp urad dal/black gram \n ¾ cup water \n ½ tsp turmeric powder (haldi) \n a pinch of asafoetida (hing) \n ½ to ¾ cup chopped coriander or cilantro leaves \n 1 inch ginger/adrak, finely chopped \n 12-15 curry leaves (kadi patta) \n 2 or 3 tbsp peanut oil or sunflower oil \n salt as required"
+    },
+    {
+      "category": "Idli Sambar",
+      "photo": "http://www.ndtv.com/cooks/images/idli.sambar_600.jpg",
+      "items": "Rs 50",
+      "ingredients" : "For sambhar powder \n 1 tbsp chana dal \n 1 tbsp coriander seeds \n ½ tbsp urad dal \n ½ tsp cumin/jeera \n ¼ tsp methi seeds \n 3 red chilies (adjust as needed) \n 2 tbsp. grated fresh coconut (optional) \n ¾ cup dal (refer notes) \n 2 cups water to cook dal \n Lemon sized ball of tamarind \n Salt as needed etc"
+
+    }
+  ],
+  "vtawa": [
+    {
+      "category": "Plain Paratha",
+      "photo": "http://images.idiva.com/media/photogallery/2014/Feb/top_10_parathas_to_complete_an_indian_meal_plain_paratha.jpg",
+      "items": "Rs 50",
+      "ingredients" : "2 cups whole wheat flour/atta \n 1 to 2 tsp oil or ghee \n ½ tsp salt or add as required \n Water as required for kneading the dough \n Oil or ghee for roasting, as required"
+    },
+    {
+      "category": "Aloo Paratha",
+      "photo": "https://i.ytimg.com/vi/i7t6j-NALaE/hqdefault.jpg",
+      "items": "Rs 70",
+      "ingredients" : "3 to 4 medium potatoes or aloo, boiled and mashed \n 1 or 2 green chilies, chopped finely \n ¼ to ½ tsp kashmiri chilli powder or deghi mirch (optional) \n ¼ to ½ tsp of punjabi garam masala powder or garam masala powder \n ½ to 1 tsp amchur/dry mango powder \n 2 to 3 tsp finely chopped coriander leaves (optional) \n Salt as required \n Oil or ghee as required for roasting parathas"
+
+    },
+    {
+      "category": "Roti",
+      "photo": "http://runnerbeans.files.wordpress.com/2010/07/potato-chickpea-dish.jpg",
+      "items": "Rs 50",
+      "ingredients" : "3 cups whole wheat flour/atta \n 1 to 1.25 cups water or more if needed \n ½ to ¾ tsp salt (optional) \n 1 to 2 tsp oil or ghee (optional)"
+
+    },
+    {
+      "category": "Tandoori Roti",
+      "photo": "https://shefalirajeev.files.wordpress.com/2015/02/wpid-photoeffect_1423385128346.jpg",
+      "items": "Rs 70",
+      "ingredients" : "2.5 cups whole wheat flour/atta \n ½ tbsp oil \n 1 tsp salt or add as required \n ¾ to 1 cup water for kneading or as required \n Some oil, ghee or butter for spreading (optional)"
+
+    }
+  ],
+  "nsnacks": [
+    {
+      "category": "Chicken Chilly",
+      "photo": "https://i.ytimg.com/vi/Bs3meDjm16o/maxresdefault.jpg",
+      "items": "Rs 120",
+      "ingredients" : "2.5 cups whole wheat flour/atta \n ½ tbsp oil \n 1 tsp salt or add as required \n ¾ to 1 cup water for kneading or as required \n Some oil, ghee or butter for spreading (optional) \n 250 grams boneless chicken \n 1 ½ tsp. chilli sauce \n 1 ½ tsp. soya sauce \n ¼ tsp pepper powder \n 2 to 3 tbsps corn flour (1 tbsp more optional) \n 2 to 3 tbsps plain flour / maida (optional use to get a restaurant style chicken) \n ¼ tsp. red chili powder \n Salt little"
+    },
+    {
+      "category": "Chicken Dry Fry",
+      "photo": "http://i0.wp.com/vimmysrecipeworld.com/wp-content/uploads/2013/08/chicken-fry.jpg?resize=600%2C398",
+      "items": "Rs 100",
+      "ingredients" : "2 tsp. oil \n Small bay leaf broken \n 3 green cardamoms \n 3 cloves \n Small cinnamon stick \n ¼ kg tender chicken (with bone or boneless) \n 1½ tsp grated ginger garlic or 1 tsp paste \n Salt as needed \n ¾ cup finely chopped onions \n 2 sprigs fresh curry leaves \n tsp turmeric \n ¼ tsp red chilli powder \n ½ tsp. garam masala \n Few chopped coriander leaves to garnish \n Lemon and onion wedges to serve"
+
+    },
+    {
+      "category": "Chicken Lolipoop",
+      "photo": "https://i.ytimg.com/vi/mCw6oeNSdk0/maxresdefault.jpg",
+      "items": "Rs 150",
+      "ingredients" : "½ kg chicken drummettes (or 1 lb) \n Oil as needed \n 1 ¼ tbsp. ginger garlic paste or ½ tsp each of powder \n ¼ to ½ red chili powder or paprika (adjust) \n ½ tsp garam masala or any spice powder \n tsp salt \n 4 tbsp corn flour or (2 tbsp. rice flour) \n 1 medium onion \n ¾ tbsp. ginger \n ¾ tbsp. garlic \n 1 tsp soya sauce \n 1 tsp vinegar \n ¾ tbsp. red chili powder or paste ( can use 1 tbsp.) \n 1 tsp sugar (can reduce to ½) \n ½ cup water \n Garnishing \n Coriander or celery as needed"
+
+    },
+    {
+      "category": "Chicken Kathi Kabab",
+      "photo": "http://www.apnasonipat.com/images/product/large2/bbq-chicken-wings-1024x6831.jpg",
+      "items": "Rs 170",
+      "ingredients" : "2 atta phulkas or whole wheat leavened bread \n 2 egg whites \n 2 tsp chopped coriander \n 3 tsp oil \n Sliced onions and julienne of pepper to garnish \n 150 gm chicken tikka \n Cottage cheese-optional \n 2 Tbsp chopped onions \n 2 tsp chopped coriander leaves \n 2 Tbsp ginger garlic paste \n 1/4 cup chopped tomatoes \n A pinch of turmeric powder \n Salt and chilli powder to taste \n 1 tsp chopped green chillies \n Oil to shallow fry"
+    },
+    {
+      "category": "Fried Fish",
+      "photo": "https://s-media-cache-ak0.pinimg.com/736x/d7/41/9e/d7419e39f1da50ae9a313636229ed10f.jpg",
+      "items": "Rs 70",
+      "ingredients" : "Oil or ghee as needed \n 250 grams fish pieces or fillet \n Salt as needed \n 2 to 3 pinches of turmeric \n 1 tbsp. Lemon juice or as needed \n ¾ tsp ginger garlic paste \n ¼ to ¾ tsp red chili powder \n ¼ to ½ tsp garam masala powder"
+    },
+    {
+      "category": "Chicken Sekhwa",
+      "photo": "https://lh5.googleusercontent.com/-s3T1vXuEb6U/ToAKPBX4x3I/AAAAAAAAAI4/o7gOYk0NONI/s400/Chicken%2Btandoori.png",
+      "items": "Rs 60",
+      "ingredients" : "800 g chicken thigh fillets \n 1 tbsp vegetable oil \n 1 tbsp fresh ginger, crushed \n 4 medium cloves garlic, crushed \n 3-4 small green chillies, chopped (or as many as desired) \n ¼ cup coriander leaves, chopped \n 3 green onions, finely chopped \n 1 tsp ground cumin \n 2 tbsp lemon juice \n ¼ tsp ground Sichuan pepper (timur) \n 1 pinch of ground black pepper \n salt, as required \n 2 tbsp mustard oil \n ¼ tsp fenugreek seeds \n 2 large red dried chillies"
+    }
+  ],
+  "nmomo": [
+    {
+      "category": "Pork Momo",
+      "photo": "http://rowlocktechnology.solutions/hotel1/wp-content/gallery/pork-momo/pork1.jpg",
+      "items": "Rs 60",
+      "ingredients" : "Dough for wrappers \n 4 cups all-purpose flour \n 1 tablespoon oil \n Water, as required \n 1 pinch salt \n Filling \n 2 lbs lean ground meat (50% lamb or chicken & 50% pork works best) \n 1 cup red onion, finely chopped"
+    },
+    {
+      "category": "Chicken Momo",
+      "photo": "http://famecafebd.com/wp-content/uploads/2015/10/6845chickenmomo6.jpg",
+      "items": "Rs 60",
+      "ingredients" : "250 gm minced chicken \n 1 medium bowl of white flour (maida) \n 2 large onion finely chopped \n 1 garlic pod finely chopped \n Coriander leaves finely chopped (optional) \n Salt to taste \n 1 tbsp refined vegetable oil"
+    },
+    {
+      "category": "Buff Momo",
+      "photo": "http://www.nepalsutra.com/ckfinder/userfiles/images/kathmandu%20Valley/nepal%20food/momos.jpg",
+      "items": "Rs 60",
+      "ingredients" : "Dough for wrappers \n All-purpose flour \n Edible oil – 1.5 tablespoon \n Water \n Salt \n You may need to add flavor on it \n Cumin Powder \n Coriander Powder \n Timmur (Szechwan pepper) \n Turmeric powder \n Ground black pepper \n Fresh red chilies, minced \n Momo masala, if available \n Ground turkey/lamb or chicken \n One middle sized onion, very nicely chopped \n Two leaves of green onion, nicely chopped \n Cilantro, chopped \n Garlic, minced/chopped – 1.5 teaspoon \n Ginger, minced/chopped – 1.5 teaspoon \n 2 tablespoon clarified butter \n Salt to taste"
+    },
+    {
+      "category": "Muton Chowmein",
+      "photo": "http://3.bp.blogspot.com/-lmBwdC7tLEU/U49hEG7OAPI/AAAAAAAABaE/DC5yvnZDuYI/s1600/IMG_5660.jpg",
+      "items": "Rs 100",
+      "ingredients" : "2 large or 3 small chicken breast fillets, shredded into thin 1cm sliced \n 2 teaspoons light soy sauce \n ¼ teaspoon black pepper \n 2 large pinches sugar \n 2 egg whites \n 2 large onions, peeled, cut in half and cut into thin slices (not too thin) \n Vegetable oil – peanut or rice bran oil \n 1 teaspoon salt \n 2 cloves of garlic, finely minced or crushed with garlic press \n 1 cup water \n 3 teaspoons corn flour \n 1 teaspoon salt, extra \n 2 teaspoons dark soy sauce \n 1 teaspoon sesame oil \n 1 cup frozen peas \n 400g fresh thin egg noodles"
+    },
+    {
+      "category": "Chicken Chowmein",
+      "photo": "https://i.ytimg.com/vi/R9E8vs-zbFk/maxresdefault.jpg",
+      "items": "Rs 80",
+      "ingredients" : "3 ounces dried chuka soba noodles, or other chinese egg noodles \n 1/4 cup, plus 2 tablespoons peanut oil \n 1/2 cup chicken broth, homemade or low-sodium canned \n 3 tablespoons oyster sauce \n 1 tablespoon dark soy sauce, plus more for the table \n 2 teaspoons cornstarch \n 1 teaspoon sugar"
+    },
+    {
+      "category": "Chicken Thukpa",
+      "photo": "http://1.bp.blogspot.com/-EtE7-rWRB5Q/UBgHF3yDl9I/AAAAAAAAApQ/wDAdVplhfKM/s1600/Thukpa_Ready_1.JPG",
+      "items": "Rs 80",
+      "ingredients" : "1/2 cup (125 mL) carrot(s), julienned \n 1/2 red pepper(s), medium, julienned \n 1/2 cup (125 mL) celery, julienned \n 2 cups (500 mL) baby spinach, fresh \n 3 cups (750 mL) chicken breast(s), leftover or deli roasted \n 6 cups (1.5 L) low-sodium chicken broth \n 1/2 lb (0.3 kg) rice noodles \n 1 clove garlic"
+    },
+    {
+      "category": "Muton Thukpa",
+      "photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/22/42/00/mutton-thukpa-1.jpg",
+      "items": "Rs 100",
+      "ingredients" : "3-4 tbsp oil \n 1/2 kg mutton (with bones) \n 2 daikon radish, julienne \n 2 carrots, julienne \n 2 onions, julienne \n 2-3 tsp strong dried cheese \n 1 pkt of egg noodles \n 1 tsp ginger, finely sliced \n 1/2 tsp whole black pepper \n A jug of water \n Salt to taste \n A handful of coriander, roughly chopped"
+    }
+  ],
+  "nindian": [
+    {
+      "category": "Chicken Butter Masala",
+      "photo": "http://www.spiceroots.com/spiceroots/wp-content/uploads/2008/05/butterchicken.jpg",
+      "items": "Rs 120",
+      "ingredients" : "400 to 500 grams of chicken \n ½ to ¾ tsp red chili powder \n 1 tsp ginger garlic paste \n Salt as needed \n 1 to 2 tbsp yogurt \n ½ to ¾ tsp garam masala"
+
+    },
+    {
+      "category": "Chicken Curry",
+      "photo": "http://media.santabanta.com/rec/Red-Chicken-Curry.jpg",
+      "items": "Rs 100",
+      "ingredients" : "2 tbsp veg oil for frying \n 1 tsp cumin seeds \n 2 tsp fresh ginger finely chopped \n 2 tsp fresh garlic chopped \n 1 small onion, finely diced \n 4 skinless boneless chicken thighs cut into thirds \n Half tsp turmeric powder \n 2 Large tomatoes finely diced \n 1 x 165ml tin chopped tomatoes \n 1 x 165ml tin coconut milk \n 10-15 fresh curry leaves \n 1 tsp salt \n 2 whole green chillies , finely chopped \n Half tsp ground green cardamom"
+
+    },
+    {
+      "category": "Chicken Seekh Kabab",
+      "photo": "http://crown-of-india.ch/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/a/tandoori_chicken_seekh_kabab1.jpg",
+      "items": "Rs 140",
+      "ingredients" : "1 Lb minced chicken (450 grams) \n 1 small onion, finely chopped \n 2 teaspoon each of  minced garlic and ginger \n 4 tablespoon chopped cilantro leaves \n 1 cup besan \n 1.5 teaspoon roasted cumin seeds \n 3/4 teaspoon green cardamom powder \n 1 tablespoon kastoori methi/ dried fenugreek leaves \n 1/4 teaspoon cinnamon powder \n 1/2 -1 teaspoon red chili powder (adjust as per taste) \n 1/4 teaspoon nutmeg powder \n Salt to taste \n 2 tablespoon butter/oil (for basting and toasting)"
+
+    },
+    {
+      "category": "Chicken Tikka Masala",
+      "photo": "https://i.ytimg.com/vi/KobUfwS4IoU/maxresdefault.jpg",
+      "items": "Rs 100",
+      "ingredients" : "6 garlic cloves finely grated \n 4 teaspoons finely grated peeled ginger \n 4 teaspoons ground turmeric \n 2 teaspoons garam masala \n 2 teaspoons ground coriander \n 2 teaspoons ground cumin \n 1 1/2 cups whole-milk yogurt \n 1 tablespoon kosher salt \n 2 pounds skinless, boneless chicken breasts halved lengthwise \n 3 tablespoons ghee (clarified butter) or vegetable oil \n 1 small onion, thinly sliced \n 1/4 cup tomato paste \n 6 cardamom pods crushed \n 2 dried chiles de árbol or 1/2 teaspoons crushed red pepper flakes \n 1 28-ounce can whole peeled tomatoes \n 2 cups heavy cream \n 3/4 cup chopped fresh cilantro plus sprigs for garnish \n Steamed basmati rice"
+    },
+    {
+      "category": "Mutton Curry",
+      "photo": "https://i.ytimg.com/vi/QWXlKD-XGCQ/maxresdefault.jpg",
+      "items": "Rs 100",
+      "ingredients" : "1 kg mutton \n 6 green chillies \n 1 pod of garlic \n 1 - 2 inch ginger \n 3 - 4 onions (medium size) \n 4 - 5 teja mirch \n 5 - 6 Tbsp of refined oil \n 1 tbsp of turmeric powder \n 1 tbsp of red chilli powder \n 3 - 4 cardamoms \n 1 tbsp of cumin \n 5 - 6 cloves \n 2 - 3 tbsp of coriander seeds \n fresh coriander  \n 2 tsp salt or to taste"
+    },
+    {
+      "category": "Pork Curry",
+      "photo": "http://saltandspice.org/wp-content/uploads/2011/07/soyasauce-pork-curry-2.jpg",
+      "items": "Rs 90",
+      "ingredients" : "2 tablespoons vegetable oil \n 4 pounds boneless pork shoulder, cut into 2-inch pieces \n 1 large onion, chopped \n 3 garlic cloves, minced \n 3 tablespoons minced fresh ginger \n 1 tablespoon mild curry powder \n 1 tablespoon ground cumin \n 1/2 teaspoon ground turmeric"
+    },
+    {
+      "category": "Buff Curry",
+      "photo": "http://whatanindianrecipe.com/wp-content/uploads/2012/09/kerala-style-beef-curry.jpg",
+      "items": "Rs 100",
+      "ingredients" : "Beef – 1 kg (cubed) \n Tomato – 250 gms (chopped) \n Onion – 250 gms (sliced) \n Green chillies – 8-10 (slit) \n Cardamom– 8 \n Cloves – 8 \n Black peppercorns – 8 \n Bay leaves – 2-3 \n Cinnamon – 3-4 \n Star anise – 2-3 \n Curry leaves – 2 strands \n Garlic – 25 gms \n Ginger – 1 thumb size piece (paste) \n Ghee/oil -100 ml \n Coriander leaves – for garnishing \n Chilli powder – 2 tsp \n Coriander powder – 2 tsp \n Turmeric powder – 1 tsp"
+    }
+  ],
+  "nrice": [
+    {
+      "category": "Chicken Fried Rice",
+      "photo": "https://s-media-cache-ak0.pinimg.com/236x/18/8a/60/188a60b7cedb477354d39b3b7ef99b8d.jpg",
+      "items": "Rs 100",
+      "ingredients" : "200 grams chicken \n salt as needed \n 1 tbsp. garlic chopped \n ¾ to 1 tbsp. soya sauce \n ¾ to 1 tbsp. vinegar \n ½ tbsp. chilli sauce (adjust to suit your taste) \n ¼ tsp pepper powder \n 2 tbsp sesame oil or olive oil \n 1 small star anise (optional) \n 1 strand mace (optional)"
+    },
+    {
+      "category": "Chicken Thali",
+      "photo": "http://agraindiankitchen.com/img/600/Tandoori-Thali.jpg",
+      "items": "Rs 130",
+      "ingredients" : "2 tbsp veg oil for frying \n 1 tsp cumin seeds \n 2 tsp fresh ginger finely chopped \n 2 tsp fresh garlic chopped \n 1 small onion, finely diced \n 4 skinless boneless chicken thighs cut into thirds \n Half tsp turmeric powder \n 2 Large tomatoes finely diced \n 1 x 165ml tin chopped tomatoes \n 1 x 165ml tin coconut milk \n 10-15 fresh curry leaves \n 1 tsp Salt \n 2 whole green chillies , finely chopped \n Half tsp ground green cardamom"
+
+    },
+    {
+      "category": "Pork Thali",
+      "photo": "http://im.timescitycontent.com/blog/wp-content/uploads/2014/06/jakoi3.jpg",
+      "items": "Rs 120",
+      "ingredients" : "1 thick bunch of sarsoon saag washed, drained and chopped into thin slices \n 1 medium size onion \n 2-3 dry red chillies \n 3 table spoon of mustard oil \n Salt to taste"
+    },
+    {
+      "category": "Mutton Thali",
+      "photo": "http://s3-media2.fl.yelpcdn.com/bphoto/nraB-97zjQ5p6JFaewjYqA/o.jpg",
+      "items": "Rs 140",
+      "ingredients" : "Mutton - 500 gms \n Oil - 2 tsp \n Fennel seeds \n Cardamon - 3 \n Cloves - 3 \n Cinnamon - 3 \n Onions - 3/4 cup \n Ginger Garlic paste - 1/2 tsp \n Turmeric powder - 1/2 tsp \n Rock salt to taste \n Mint leaves / pudina - handful \n Tomato - 1 medium \n Coriander powder - 2 tsp \n Chili powder - 2 tsp \n Water - 1 cup \n Coconut paste - 1/2 cup"
+    },
+    {
+      "category": "Mutton Pulao",
+      "photo": "http://1.bp.blogspot.com/_lKHYFPNF31o/TQjleRJfDII/AAAAAAAACDw/7ZzMGrhhMJM/s1600/rsz_img_4873.jpg",
+      "items": "Rs 120",
+      "ingredients" : "1 kilogram mutton (bone in, from the shoulder or leg, cut into pieces) \n 3 tablespoons oil (or ghee) \n 200 grams natural yoghurt \n 500 grams basmati rice \n 1½ teaspoons salt \n 2 large onions (cut into thick slices - 3-4mm) \n 1 fresh root ginger (thumb-sized) \n 8 cloves garlic"
+    },
+    {
+      "category": "Mixed Pulao",
+      "photo": "http://www.sanjeevkapoor.com/UploadFiles/RecipeImages/Chicken_Pulao.jpg",
+      "items": "Rs 150",
+      "ingredients" : "¼ cup oil \n 2 bay leaves (tejpatta) \n 2 sticks cinnamon (dalcini) \n 2 black cardamoms (badi elaichi) \n 6 cloves (lavang) \n 1 teaspoon cumin (jeera) seeds \n 1 onion, sliced thin \n 1 tablespoon ginger-garlic paste \n 3 carrots, peeled and cut into thin strips \n 150 grams green beans, cut into long strips \n 1 cup frozen green peas \n 2 potatoes, peeled and cubed \n 4 cups basmati rice \n Salt to taste \n 6 - 7 cups water"
+
+    }
+  ],
+  "ntawa": [
+    {
+      "category": "Grilled Chicken",
+      "photo": "https://197c2b2de2695f3fc516-9d1369894b0466c92e9c5ccf435da7e6.ssl.cf3.rackcdn.com/784/img/menu/2015-05-28_flamed-g-chicken-1.jpg",
+      "items": "Rs 170",
+      "ingredients" : "Olive oil \n Red onion \n Green bell pepper \n Barbecue sauce \n Chicken breasts \n Salt \n Pepper"
+    },
+    {
+      "category": "Chicken Sizzler",
+      "photo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSec3ShxqCX6n-q8YRpjXUbMulsHnlhW7TGh2nKTqFD5JYOMcc_",
+      "items": "Rs 150",
+      "ingredients" : "Boneless chicken breasts skinned 2 \n Black pepper powder 1/2 teaspoon \n Garlic chopped 4 cloves \n Salt to taste \n Olive oil 4 1/2 tablespoons \n Green capsicum 1/2 inch pieces 1 medium \n Red capsicum 1/2 inch pieces 1 medium \n Button mushrooms quartered 2 medium"
+
+    },
+    {
+      "category": "Chicken Seekh Kabab",
+      "photo": "http://crown-of-india.ch/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/a/tandoori_chicken_seekh_kabab1.jpg",
+      "items": "Rs 140",
+      "ingredients" : "1 Lb minced chicken (450 grams) \n 1 small onion, finely chopped \n 2 teaspoon each of  minced garlic and ginger \n 4 tablespoon chopped cilantro leaves \n 1 cup Besan \n 1.5 teaspoon roasted cumin seeds \n 3/4 teaspoon green cardamom powder \n 1 tablespoon kastoori methi/ dried fenugreek leaves \n 1/4 teaspoon cinnamon powder \n 1/2 -1 teaspoon Red chili powder (adjust as per taste) \n 1/4 teaspoon nutmeg powder \n Salt to taste \n 2 tablespoon butter/oil (for basting and toasting)"
+
+    },
+    {
+      "category": "Tawa Chicken",
+      "photo": "http://2.bp.blogspot.com/-X8vplXbZDYQ/VZupFbA4ZbI/AAAAAAAAP1k/q2lmpL20k9w/s640/111.jpg",
+      "items": "Rs 120",
+      "ingredients" : "10 nos. Chicken(skinless drumsticks) \n 8 cloves Garlic \n 2 tbsps. Lime juice \n 3 tsps. Red Chili Powder \n2 tsps. Coriander powder \n 4 tsps. Spice mix for Tandoori \n 4 tsps. All spice powder \n 2 tbsps. Butter \n Cilantro for garnishing \n Salt to taste"
+
+    },
+    {
+      "category": "Grilled Pork",
+      "photo": "http://www.whatwereeating.com/food-photos/2006-06-08_bbq-porkchop.jpg",
+      "items": "Rs 140",
+      "ingredients" : "Cloves garlic \n Brown sugar \n Honey, soy sauce \n Worcestershire sauce \n Ketchup \n Ground ginger \n Onion powder \n Ground cinnamon \n Cayenne pepper \n Thick-cut boneless pork loin chops"
+
+    },
+    {
+      "category": "Chicken Keema Naan",
+      "photo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZQ_7nkJPlVEyG2EMgD5OLTskJ9dZaNtokJhuxjKag3AdvOAhXJw",
+      "items": "Rs 120",
+      "ingredients" : "For the naan bread \n Plain flour \n Salt \n Baking powder \n Active dry yeast \n Sugar \n Milk \n Vegetable oil \n Natural yoghurt \n Egg \n Lamb mince \n Oil \n Onion \n Garlic cloves \n Ginger \n Green chilies \n Tomato puree \n Chili powder \n Coriander powder \n Garam masala powder \n Salt \n Fresh coriander leaves"
+
+    },
+    {
+      "category": "Chicken Tandoori",
+      "photo": "http://ksmartstatic.sify.com/cmf-1.0.0/appflow/bawarchi.com/Image/oiekQJjeaghbh_bigger.jpg",
+      "items": "Rs 150",
+      "ingredients" : "Large chicken pieces with skin (2 pieces breast) \n 2 pieces of thighs \n A couple of wings \n Oil \n Red chilli paste \n Ginger and garlic paste \n Chaat masala \n Oil \n Curd \n Salt \n Juice of 1/2 lemon \n For the tandoori masala \n Cinnamon \n Black peppercorns \n Green cardamom \n Brown cardamom \n Coriander seeds \n Cumin seeds \n Cloves \n Bay leaf \n Turmeric"
+
+    }
+  ]
+}

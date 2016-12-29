@@ -1,0 +1,29 @@
+{
+	"response": "ok",
+	"nonvegetarian": [{
+		"category": "Snacks",
+		"photo": "http://3.imimg.com/data3/DG/FP/MY-9770512/non-veg-snacks-250x250.jpg",
+		"items": " ITEMS:   Fish, Chicken, Kababs,etc"
+	  },
+	  {
+		"category": "Momo & Noodles",
+		"photo": "http://www.taste.com.au/images/recipes/agt/2008/07/chicken-momos-with-tomato-achar-15110_l.jpeg",
+		"items": " ITEMS:   Momo, Chowmein, Thukpa,etc"
+	  },
+	  
+	  {
+		"category": "Bread & Rice",
+		"photo": "http://recipes2cook.com/wp-content/uploads/2012/06/Sindhi-Chicken-Biryani-Recipe-3-300x227.jpg",
+		"items": " ITEMS   Rice, Thali, Pulao,etc"
+	  },
+	  {
+		"category": "Indian Corner",
+		"photo": "http://4.bp.blogspot.com/-nJfX3p3tRQ4/Vdy95EOcXFI/AAAAAAAABOo/wYBIEKkww-Y/s1600/spicy_chicken_masala_recipe.JPG",
+		"items": " ITEMS:    Curry, Tikka Masala, Kadhai,etc"
+	  },
+	  {
+		"category": "Tawa & Tandoor Se",
+		"photo": "http://3.imimg.com/data3/HT/LO/MY-3573752/tandoori-chicken-250x250.jpg",
+		"items": " ITEMS:   Naan, Tandoori, Tawa,etc"
+	  }]
+}

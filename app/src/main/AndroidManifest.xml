@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.andro.naveen.famousapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".myapplication.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="Login"
+            android:theme="@style/AppTheme.Dark" />
+        <activity
+            android:name=".SignUpActivity"
+            android:theme="@style/AppTheme.Dark" />
+        <activity android:name=".NoNetwork" />
+        <activity
+            android:name=".MainPageActivity"
+            android:label="@string/title_activity_main_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SelectItem"
+            android:label="Select Categories"
+            android:parentActivityName=".MainPageActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.andro.naveen.famousapp.MainPageActivity" />
+        </activity>
+        <activity
+            android:name=".GroceryJson"
+            android:label="Grocery Items"
+            android:parentActivityName=".SelectItem" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.andro.naveen.famousapp.SelectItem" />
+        </activity>
+        <activity
+            android:name=".FoodItems"
+            android:label="Food Categories"
+            android:parentActivityName=".SelectItem" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.andro.naveen.famousapp.SelectItem" />
+        </activity>
+        <activity
+            android:name=".VegetarianJson"
+            android:label="Vegetarian Categories"
+            android:parentActivityName=".FoodItems" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.andro.naveen.famousapp.FoodItems" />
+        </activity>
+        <activity
+            android:name=".NonVegetarianJson"
+            android:label="Non Vegetarian Categories"
+            android:parentActivityName=".FoodItems" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.andro.naveen.famousapp.FoodItems" />
+            >
+        </activity>
+        <activity
+            android:name=".Product"
+            android:label="Products"
+            android:parentActivityName=".SelectItem" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.andro.naveen.famousapp.SelectItem" />
+        </activity>
+        <activity
+            android:name=".FinalProduct"
+            android:theme="@style/Subik" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.andro.naveen.famousapp.SelectItem" />
+        </activity>
+        <activity
+            android:name=".ActivityCart"
+            android:label="Shopping Cart" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.andro.naveen.famousapp.SelectItem" />
+        </activity>
+        <activity
+            android:name=".PricingDetails"
+            android:label="Price Details" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.andro.naveen.famousapp.ActivityCart" />
+        </activity>
+        <activity
+            android:name=".ShippingDetails"
+            android:label="Shipping Details"
+            android:theme="@style/Shipping" >
+        </activity>
+        <activity
+            android:name=".EmptyCart"
+            android:label="Shopping Cart" >
+        </activity>
+        <activity
+            android:name=".PaymentPage"
+            android:label=" " >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.andro.naveen.famousapp.PricingDetails" />
+        </activity>
+        <activity android:name=".OrderPlaced"
+            android:label=" ">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.andro.naveen.famousapp.MainPageActivity" />
+        </activity>
+    </application>
+
+</manifest>
